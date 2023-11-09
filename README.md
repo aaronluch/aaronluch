@@ -1,4 +1,4 @@
-# Aaron Luciano - Junior CS Student - University of Vermont
+# Aaron Luciano - Junior CS Student
 
 Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineering (SWE) and User Experience (UX). Welcome to my page!
 
