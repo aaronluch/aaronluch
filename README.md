@@ -1,16 +1,13 @@
-### Hi there 👋
+# Aaron Luciano - Junior CS Student - University of Vermont
 
-<!--
-**aaronluch/aaronluch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineering (SWE) and User Experience (UX). Welcome to my page!
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Software Development**: Projects featuring object-oriented programming and algorithm implementation.
+- **User Experience Design**: Works showing my approach to intuitive design and user interaction.
+
+Feel free to explore the repositories and reach out if you have any questions or are interested in communicating.
+
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aaron-luciano](https://www.linkedin.com/in/aaronluciano/))
+- **Photography Portfolio**: [aaronluciano.com](https://aaronluciano.com)
