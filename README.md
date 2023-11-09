@@ -9,5 +9,5 @@ Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineerin
 
 Feel free to explore the repositories and reach out if you have any questions or are interested in communicating.
 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aaron-luciano](https://www.linkedin.com/in/aaronluciano/))
+- **LinkedIn**: [aaron luciano](https://www.linkedin.com/in/aaronluciano/)
 - **Photography Portfolio**: [aaronluciano.com](https://aaronluciano.com)
