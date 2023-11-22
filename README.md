@@ -1,6 +1,6 @@
 # Aaron Luciano - Junior CS Student
 
-Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineering (SWE) and User Experience (UX). Welcome to my page!
+Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineering (SWE) and Web Development. Welcome to my page!
 
 ## Overview
 
