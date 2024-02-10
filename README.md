@@ -23,4 +23,4 @@ class Aaron:
         }
 ```
 
-<p><em><b>I'm always looking to learn more,</b> so feel free to reach out!</em></p>
+<img src=https://tonymckes.vercel.app/_next/static/media/code.62844567.gif width = 50><p><em>I'm always looking to learn more, <b>so feel free to reach out!</b></em></p>
