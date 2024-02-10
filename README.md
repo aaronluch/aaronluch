@@ -6,8 +6,10 @@
 class Aaron:
     def __init__(self):
         self.pronouns = "he/him"
-        self.languages = ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"]
-        self.tools = ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"]
+        self.languages = ["C++", "Java", "Python",
+        "JavaScript", "CSS", "HTML"]
+        self.tools = ["CLion", "IntelliJ IDEA", "Visual Studio",
+        "Visual Studio Code", "MySQL", "Git", "GitHub"]
         self.skills = {
             "swe": "OOP and algorithms",
             "web dev": "responsive and reactive web design",
