@@ -8,20 +8,23 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ5cWJxbmtwbW04YTFzYXZmaGQ2cXd1MWtlY2JucHNheDR3OWZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O2le7AOSyrrY7AEHyY/giphy.gif" width="50"> about me;
 
-```python
-class Aaron:
-    def __init__(self):
-        self.pronouns = "he/him"
-        self.languages = ["C++", "Java", "Python",
-        "JavaScript", "CSS", "HTML"]
-        self.tools = ["CLion", "IntelliJ IDEA", "Visual Studio",
-        "Visual Studio Code", "MySQL", "Git", "GitHub"]
-        self.skills = {
-            "swe": "OOP and algorithms",
-            "web dev": "responsive and reactive web design",
-            "ux": "intuitive designs and seamless user interaction"
-        }
+```javascript
+
+class Aaron {
+  constructor() {
+    this.pronouns: "he/him";
+    this.languages: ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
+    this.tools: ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"];
+    this.skills: {
+      swe: "oop and algorithms",
+      webDev: "responsive and reactive web design",
+      ux: "intuitive designs and seamless user interaction"
+    };
+  }
+}
+
 ```
+
 
 <em>I'm always looking to learn more, <b>so feel free to reach out!</b></em><img src=https://tonymckes.vercel.app/_next/static/media/code.62844567.gif width = 50>
 
