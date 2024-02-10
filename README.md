@@ -12,7 +12,7 @@
 
 class Aaron {
   constructor() {
-    this.pronouns: "he/him";
+    this.pronouns= "he/him";
     this.languages: ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
     this.tools: ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"];
     this.skills: {
