@@ -10,6 +10,6 @@ Hello, I'm Aaron Luciano, a Junior CS student specialized in Software Engineerin
 
 Feel free to explore the repositories and reach out if you have any questions or are interested in communicating.
 
-[![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=for-the-badge&logo=github)](https://github.com/aaronluch)
+[![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=flat-square&logo=github)](https://github.com/aaronluch)
 [![Linkedin: aaronluch](https://img.shields.io/badge/-aaronluciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronluciano/)](https://www.linkedin.com/in/aaronluciano/)
 [![photography portfolio](https://img.shields.io/badge/photography-portfolio-1c1c1c)](https://aaronluciano.com)
