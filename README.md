@@ -1,4 +1,5 @@
 <h2> Aaron Luciano </h2>
+<img align='right' src="https://i.imgur.com/RXsqntc.png" width="230">
 <p><em>Junior SWE and Web Dev student at <a href="https://uvm.edu">University of Vermont</a>.</em></p>
 
 [![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=flat-square&logo=github)](https://github.com/aaronluch)
