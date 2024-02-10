@@ -19,9 +19,9 @@ private:
 public:
     aaron() {
         pronouns = "he/him";
-        languages = {"C++", "Java", "Python", "JavaScript", "CSS", "HTML"};
-        tools = {"CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
-                "MySQL", "Git", "GitHub"};
+        languages = ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
+        tools = ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
+                "MySQL", "Git", "GitHub"];
         skills = {
             {"swe", "oop and algorithms"},
             {"webDev", "responsive and reactive web design"},
