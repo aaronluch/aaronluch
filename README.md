@@ -15,7 +15,7 @@ const aaron = {
     languages: [C++, Java, Python, JavaScript, CSS, HTML],
     tools: [CLion, IntelliJ IDEA, Visual Studio, VSCode, MySQL, Git, GitHub],
     skills: {
-            swe: "development woop and algorithms",
+            swe: "development w/ oop and algorithms",
             webDev: "responsive and reactive web design",
             ux: "intuitive designs and seamless user interaction"
         },
