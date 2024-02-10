@@ -2,34 +2,22 @@
 <h3> Junior CS Student focused in SWE and Web Development at the <a href="https://uvm.edu">University of Vermont</a>. </h3>
 
 
-```cpp
-#include <string>
-#include <vector>
-#include <map>
-
-struct Developer {
-  std::string pronouns;
-  std::vector<std::string> languages;
-  std::vector<std::string> tools;
-  std::map<std::string, std::string> skills;
-};
-
-int main() {
-  Developer aaron = {
-    "he/him",
-    {"C++", "Java", "Python", "JavaScript", "CSS", "HTML"},
-    {"CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"},
-    {
-      {"swe", "Projects featuring object-oriented programming and algorithm implementation using C++ and Java."},
-      {"web dev", "Experience in creating responsive and interactive websites using HTML, CSS, and JavaScript"},
-      {"ux", "Works showing my approach to intuitive design and user interaction."}
+```java
+public Developer(String pronouns, String[] languages, String[] tools, Map<String, String> skills) {
+        this.pronouns = pronouns;
+        this.languages = languages;
+        this.tools = tools;
+        this.skills = skills;
     }
-  };
 
-  // Access and use the 'aaron' object as needed here
-  
-  return 0;
-}
+    public static void main(String[] args) {
+        String[] languages = {"C++", "Java", "Python", "JavaScript", "CSS", "HTML"};
+        String[] tools = {"CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
+                          "MySQL", "Git", "GitHub"};
+        Map<String, String> skills = new HashMap<>();
+        skills.put("swe", "OOP and algorithms");
+        skills.put("web dev", "responsive and reactive web design");
+        skills.put("ux", "intuitive designs and seamless user interaction.");
 ```
 
 
