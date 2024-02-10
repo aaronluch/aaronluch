@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ5cWJxbmtwbW04YTFzYXZmaGQ2cXd1MWtlY2JucHNheDR3OWZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O2le7AOSyrrY7AEHyY/giphy.gif" width="50"> about me;
 
-```javascript
+```cpp
 
 class aaron {
 private:
@@ -19,9 +19,9 @@ private:
 public:
     aaron() {
         pronouns = "he/him";
-        languages = ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
-        tools = ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
-                "MySQL", "Git", "GitHub"];
+        languages = {"C++", "Java", "Python", "JavaScript", "CSS", "HTML"};
+        tools = {"CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
+                "MySQL", "Git", "GitHub"};
         skills = {
             {"swe", "oop and algorithms"},
             {"webDev", "responsive and reactive web design"},
