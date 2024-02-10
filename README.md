@@ -1,7 +1,10 @@
 <h2> Aaron Luciano </h2>
-<p><em>Junior CS Student focused in SWE and Web Development at the <a href="https://uvm.edu">University of Vermont</a>.</em></p>
+<p><em>Junior SWE and Web Dev student at <a href="https://uvm.edu">University of Vermont</a>.</em></p>
+[![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=flat-square&logo=github)](https://github.com/aaronluch)
+[![Linkedin: aaronluch](https://img.shields.io/badge/-aaronluciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronluciano/)](https://www.linkedin.com/in/aaronluciano/)
+[![photography portfolio](https://img.shields.io/badge/photography-portfolio-71c476?style=flat-square)](https://aaronluciano.com)
 
-
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://i.giphy.com/KGhpQ5NMoWKQurlHwI.webp)" width="50"> A little more about me...  
 ```python
 class Aaron:
     def __init__(self):
@@ -18,6 +21,4 @@ class Aaron:
 ```
 
 
-[![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=flat-square&logo=github)](https://github.com/aaronluch)
-[![Linkedin: aaronluch](https://img.shields.io/badge/-aaronluciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronluciano/)](https://www.linkedin.com/in/aaronluciano/)
-[![photography portfolio](https://img.shields.io/badge/photography-portfolio-71c476?style=flat-square)](https://aaronluciano.com)
+
