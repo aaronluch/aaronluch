@@ -23,5 +23,5 @@ class Aaron:
         }
 ```
 
-<img src=https://tonymckes.vercel.app/_next/static/media/code.62844567.gif width = 50><em>I'm always looking to learn more, <b>so feel free to reach out!</b></em>
+<em>I'm always looking to learn more, <b>so feel free to reach out!</b></em><img src=https://tonymckes.vercel.app/_next/static/media/code.62844567.gif width = 50>
 
