@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ5cWJxbmtwbW04YTFzYXZmaGQ2cXd1MWtlY2JucHNheDR3OWZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O2le7AOSyrrY7AEHyY/giphy.gif" width="50"> about me;
 
-```csharp
+```typescript
 
 class aaron {
 private:
