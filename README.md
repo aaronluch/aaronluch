@@ -12,10 +12,10 @@
 
 class Aaron {
   constructor() {
-    this.pronouns= "he/him";
-    this.languages: ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
-    this.tools: ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"];
-    this.skills: {
+    this.pronouns = "he/him";
+    this.languages = ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"];
+    this.tools = ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"];
+    this.skills = {
       swe: "oop and algorithms",
       webDev: "responsive and reactive web design",
       ux: "intuitive designs and seamless user interaction"
