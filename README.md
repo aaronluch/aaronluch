@@ -1,23 +1,18 @@
 <h2> Aaron Luciano </h2>
-<h3> Junior CS Student focused in SWE and Web Development at the <a href="https://uvm.edu">University of Vermont</a>. </h3>
+<p><em>Junior CS Student focused in SWE and Web Development at the <a href="https://uvm.edu">University of Vermont</a>.</em></p>
 
 
-```java
-public Developer(String pronouns, String[] languages, String[] tools, Map<String, String> skills) {
-        this.pronouns = pronouns;
-        this.languages = languages;
-        this.tools = tools;
-        this.skills = skills;
-    }
-
-    public static void main(String[] args) {
-        String[] languages = {"C++", "Java", "Python", "JavaScript", "CSS", "HTML"};
-        String[] tools = {"CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code",
-                          "MySQL", "Git", "GitHub"};
-        Map<String, String> skills = new HashMap<>();
-        skills.put("swe", "OOP and algorithms");
-        skills.put("web dev", "responsive and reactive web design");
-        skills.put("ux", "intuitive designs and seamless user interaction.");
+```python
+class Aaron:
+    def __init__(self):
+        self.pronouns = "he/him"
+        self.languages = ["C++", "Java", "Python", "JavaScript", "CSS", "HTML"]
+        self.tools = ["CLion", "IntelliJ IDEA", "Visual Studio", "Visual Studio Code", "MySQL", "Git", "GitHub"]
+        self.skills = {
+            "swe": "OOP and algorithms",
+            "web dev": "responsive and reactive web design",
+            "ux": "intuitive designs and seamless user interaction"
+        }
 ```
 
 
