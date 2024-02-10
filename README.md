@@ -5,7 +5,7 @@
 [![Linkedin: aaronluch](https://img.shields.io/badge/-aaronluciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronluciano/)](https://www.linkedin.com/in/aaronluciano/)
 [![photography portfolio](https://img.shields.io/badge/photography-portfolio-71c476?style=flat-square)](https://aaronluciano.com)
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://i.giphy.com/KGhpQ5NMoWKQurlHwI.webp)" width="50"> A little more about me...  
+### <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fnmuax05zxoab1.gif" width="50"> A little more about me...  
 
 ```python
 class Aaron:
