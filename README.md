@@ -13,12 +13,11 @@
 const aaron = {
     pronouns: "he" | "him",
     languages: [C++, Java, Python, JavaScript, CSS, HTML],
-    tools: [CLion, IntelliJ IDEA, Visual Studio,
-    Visual Studio Code, MySQL, Git, GitHub],
+    tools: [CLion, IntelliJ IDEA, Visual Studio, VSCode, MySQL, Git, GitHub],
     skills: {
-        swe: "development woop and algorithms",
-        webDev: "responsive and reactive web design",
-        ux: "intuitive designs and seamless user interaction"
+            swe: "development woop and algorithms",
+            webDev: "responsive and reactive web design",
+            ux: "intuitive designs and seamless user interaction"
         },
 }
 ```
