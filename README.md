@@ -12,12 +12,15 @@
 ```javascript
 const aaron = {
     pronouns: "he" | "him",
-    languages: [JavaScript, PHP, C++, Java, Python, CSS, HTML],
-    tools: [CLion, IntelliJ IDEA, Visual Studio, VSCode, MySQL, Git, GitHub],
+    languages: [JavaScript, HTML, CSS, PHP, SQL, Python, C++, Java],
+    tools: [Visual Studio, VSCode, MySQL, Git, CLion, GitHub],
     skills: {
-            swe: "development w/ oop and algorithms",
-            webDev: "responsive and reactive web design",
-            ux: "intuitive designs and seamless user interaction"
+        fontEnd: {
+            frameworks: ["React", "Vue.js"]
+            libraries: ["jQuery", "Lodash"]
+            design: "strong foundation in UI/UX principles for user-centered design",
+        },
+        softwareEngineering: "strong understanding of oop and algorithms for efficient applications",
         },
 }
 ```
