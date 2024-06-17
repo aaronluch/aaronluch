@@ -12,7 +12,7 @@
 ```javascript
 const aaron = {
     pronouns: "he" | "him",
-    languages: [C++, Java, Python, JavaScript, CSS, HTML],
+    languages: [JavaScript, PHP, C++, Java, Python, CSS, HTML],
     tools: [CLion, IntelliJ IDEA, Visual Studio, VSCode, MySQL, Git, GitHub],
     skills: {
             swe: "development w/ oop and algorithms",
