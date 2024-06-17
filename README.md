@@ -21,7 +21,7 @@ const aaron = {
             design: "strong foundation in UI/UX principles for user-centered design",
         },
         softwareEngineering: "strong understanding of oop and algorithms for efficient applications",
-        },
+    },
 }
 ```
 
