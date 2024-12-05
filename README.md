@@ -1,6 +1,6 @@
 <h2> Aaron Luciano </h2>
 <img align='right' src="https://i.imgur.com/RXsqntc.png" width="230">
-<p><em>Junior CS Web Dev student at <a href="https://uvm.edu">University of Vermont</a>.</em></p>
+<p><em>Senior CS Web Dev student at <a href="https://uvm.edu">University of Vermont</a>.</em></p>
 
 [![GitHub - aaronluch](https://img.shields.io/badge/GitHub-aaronluch-blue?style=flat-square&logo=github)](https://github.com/aaronluch)
 [![Linkedin: aaronluch](https://img.shields.io/badge/-aaronluciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronluciano/)](https://www.linkedin.com/in/aaronluciano/)
