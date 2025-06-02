@@ -37,3 +37,6 @@ const aaron = {
   },
   projects: ["AI Bone Age Predictor", "ClimateCloset iOS App", "Penster Social Platform"]
 }
+```
+<em>Open to new opportunities and always learning — <b>reach out and say hello!</b></em>
+<img src="https://tonymckes.vercel.app/_next/static/media/code.62844567.gif" width="50">
